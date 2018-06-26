@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".MusicLibrary"
+            android:name="com.example.allan.MusicLibrary"
             android:label="Playlist">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -30,7 +30,7 @@
         <activity
             android:name="com.example.allan.PaymentActivity"
             android:label="Payment" />
-        <activity android:name=".NowPlayingActivity"
+        <activity android:name="com.example.allan.NowPlayingActivity"
             android:label="Now Playing"></activity>
     </application>
 

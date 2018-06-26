@@ -1,4 +1,4 @@
-package com.example.allan.musicapplication;
+package com.example.allan;
 
 import android.content.Intent;
 import android.databinding.DataBindingUtil;
@@ -6,10 +6,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
-import com.example.allan.AlbumsActivity;
-import com.example.allan.ArtistsActivity;
-import com.example.allan.PaymentActivity;
-import com.example.allan.TracksActivity;
+import com.example.allan.musicapplication.R;
 import com.example.allan.musicapplication.databinding.ActivityMusicLibraryBinding;
 
 public class MusicLibrary extends AppCompatActivity {

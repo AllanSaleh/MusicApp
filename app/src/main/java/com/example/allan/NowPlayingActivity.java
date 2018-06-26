@@ -1,4 +1,4 @@
-package com.example.allan.musicapplication;
+package com.example.allan;
 
 import android.content.SharedPreferences;
 import android.databinding.DataBindingUtil;
@@ -9,6 +9,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.MenuItem;
 import android.view.View;
 
+import com.example.allan.musicapplication.R;
 import com.example.allan.musicapplication.databinding.ActivityNowPlayingBinding;
 
 import java.util.Timer;

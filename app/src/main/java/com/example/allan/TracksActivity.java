@@ -6,8 +6,6 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
-import com.example.allan.musicapplication.MusicLibrary;
-import com.example.allan.musicapplication.NowPlayingActivity;
 import com.example.allan.musicapplication.R;
 import com.example.allan.musicapplication.databinding.ActivityTracksBinding;
 

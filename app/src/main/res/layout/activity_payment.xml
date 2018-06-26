@@ -9,7 +9,7 @@
         android:layout_height="match_parent"
         android:background="@color/background"
         android:orientation="vertical"
-        tools:context="com.example.allan.musicapplication.MusicLibrary">
+        tools:context="com.example.allan.musicapplication.com.example.allan.MusicLibrary">
 
         <include
             android:id="@+id/included_tag" layout="@layout/selectoractiviy" />

@@ -15,7 +15,7 @@
         android:layout_height="match_parent"
         android:background="@color/background"
         android:orientation="vertical"
-        tools:context="com.example.allan.musicapplication.NowPlayingActivity">
+        tools:context="com.example.allan.musicapplication.com.example.allan.NowPlayingActivity">
 
         <ImageView
             android:id="@+id/imageView"
